@@ -1,0 +1,70 @@
+.contact {
+  text-align: center;
+  font-size: 15px;
+
+}
+
+.links {
+  text-align: center;
+}
+
+img {
+  max-width: 100%
+}
+
+.school {
+  line-height: 1.7em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.plans {
+  line-height: 1.7em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.work {
+  line-height: 1.7em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+.skillz {
+  line-height: 1.7em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  font-size: 16px;
+
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: #000;
+  margin: 0;
+}
+
+#Objective {
+  color: red;
+}
+
+#Education {
+  color: green;
+}
+
+#Experience {
+  color: blue;
+}
+
+#Skills {
+  color: purple;
+}
+
+
+
+
